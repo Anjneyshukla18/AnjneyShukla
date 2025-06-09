@@ -1,7 +1,7 @@
 ![logo](https://github.com/Anjneyshukla18/AnjneyShukla/blob/main/YouTube%20Banner%20-%20%5BUser's%20Name%20Here%5D.png)
 <h1 align="center">Hi 👋, I'm Anjney Shukla</h1>
 <h3 align="center">A passionate Cse-Ai btech student from India</h3>
-<img align="right"alt="coding"width="200"src="https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.gif">
+<img align="right"alt="coding"width="400"src="https://gifdb.com/images/high/couple-laptop-system-coding-n4ikawbchrh2w41k.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjneyshukla18&label=Profile%20views&color=0e75b6&style=flat" alt="anjneyshukla18" /> </p>
 
